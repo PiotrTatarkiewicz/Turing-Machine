@@ -1,0 +1,2 @@
+class PommelError(Exception):
+    pass

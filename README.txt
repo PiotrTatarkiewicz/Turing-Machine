@@ -1,0 +1,1 @@
+To fill a table open 'Mina.py' file.
