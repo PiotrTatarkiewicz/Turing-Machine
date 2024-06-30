@@ -1,1 +1,1 @@
-To fill a table open 'Mina.py' file.
+To fill a table open 'Main.py' file.
